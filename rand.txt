@@ -1,0 +1,12 @@
+data_science_lab/
+├── data/
+│   └── raw/
+│   └── processed/
+├── retrieval/
+├── schema/
+├── scripts/
+├── analysis/
+├── docs/
+├── requirements.txt
+├── README.md
+└── .gitignore
